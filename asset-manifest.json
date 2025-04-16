@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ephiesSocials/static/css/main.efda7a78.css",
+    "main.js": "/ephiesSocials/static/js/main.ac242cf6.js",
+    "static/js/453.948548aa.chunk.js": "/ephiesSocials/static/js/453.948548aa.chunk.js",
+    "index.html": "/ephiesSocials/index.html",
+    "main.efda7a78.css.map": "/ephiesSocials/static/css/main.efda7a78.css.map",
+    "main.ac242cf6.js.map": "/ephiesSocials/static/js/main.ac242cf6.js.map",
+    "453.948548aa.chunk.js.map": "/ephiesSocials/static/js/453.948548aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efda7a78.css",
+    "static/js/main.ac242cf6.js"
+  ]
+}
